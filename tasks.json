@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Go outside",
+    "completed": true
+  },
+  {
+    "description": "buy milk",
+    "completed": false
+  },
+  {
+    "description": "pay bills",
+    "completed": false
+  }
+]
